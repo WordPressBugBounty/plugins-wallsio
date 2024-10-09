@@ -68,6 +68,9 @@ Walls.io puts all your social media feeds in one place, allows you to moderate t
 
 == Changelog ==
 
+= 3.0.14 =
+* Add Photo Booth support
+
 = 3.0.13 =
 * Update compatibility versions
 

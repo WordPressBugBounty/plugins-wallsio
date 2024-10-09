@@ -85,6 +85,7 @@ export default class WallsioPreview extends Component {
           frameborder="0"
           title={ title }
           border="0"
+		  allow="camera"
         />
       </ResizableBox>
     );
