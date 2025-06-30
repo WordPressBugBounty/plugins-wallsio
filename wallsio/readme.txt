@@ -4,7 +4,7 @@ Plugin Name: Walls.io: Social Media Feed
 Plugin URI: https://wordpress.org/plugins/wallsio/
 Tags: social media aggregator, social media embed, social media feed, instagram feed, twitter feed, facebook feed, social wall, social media wall
 Contributors: rivalitaet, patrickmladensich
-Tested up to: 6.6
+Tested up to: 6.8
 Stable tag: trunk
 License: GPL v3 or later
 License URI: https://www.gnu.org/licenses/gpl.txt
